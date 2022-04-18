@@ -3,7 +3,7 @@
 
 /* *****************************************************************
  *                     FUNCIONES A COMPLETAR                       *
- *         (ver en tp0.h la documentación de cada función)         *
+ *         (ver en tp0.h la documentación de cada función)          *
  * *****************************************************************/
 
 void swap(int *x, int *y) {
